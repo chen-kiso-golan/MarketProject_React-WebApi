@@ -1,0 +1,6 @@
+Entities \ MainManager \ AppDomainInitializer ran Successfully - 14/03/2023 14:03:36
+WebApi \ ProductController \ getAllProductsFromDB ran Successfully - 14/03/2023 14:03:37
+WebApi \ DepartmentController \ getAllDepartmentFromDB ran Successfully - 14/03/2023 14:03:38
+Entities \ ProductManager \ getAllProductsFromDB ran Successfully - 14/03/2023 14:03:39
+Entities \ DepartmentManager \ getAllDepartmentFromDB ran Successfully - 14/03/2023 14:03:40
+Data.Sql \ DepartmentDS \ getAllDepartmentFromDB ran Successfully - 14/03/2023 14:03:41
